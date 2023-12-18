@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "vega.ai",
+    "id": "657fc755a2cd462eba22984f",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "path": "public/",
+    "componentsPath": "/home/tahseer/Desktop/frontend/src/components",
+    "screensPath": "/home/tahseer/Desktop/frontend/src/pages",
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case"
+  }
+}
